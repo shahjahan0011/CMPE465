@@ -1,0 +1,13 @@
+.DS_Store
+
+# Verilator-generated models, binaries, and waveform traces.
+obj_dir*/
+*.vcd
+*.fst
+*.o
+*.a
+
+# Local editor files.
+*.swp
+*.swo
+*~
